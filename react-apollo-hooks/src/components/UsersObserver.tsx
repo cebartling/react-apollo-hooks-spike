@@ -19,6 +19,7 @@ const UsersObserver: React.FC = () => {
             });
         }
     }, [loading, data, addToast]);
+
     return null;
 };
 
